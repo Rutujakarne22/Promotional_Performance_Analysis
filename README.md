@@ -74,5 +74,20 @@ Features:
 - Consider product-category-promo alignment for best ROI.
 
 ---
+## Dashboard images
+**Store Performance View**
+![Store](Images/Store.png)
+
+--- 
+**Promo-type analysis View**
+![Promo](Images/Promo.png)
+
+---
+**Category-Product View**
+![Category](Images/Category.png)
+
+---
+## Acknowledgments
+Special thanks to Codebasics for hosting this insightful challenge and providing a real-world case study for hands-on analytics learning
 
 
