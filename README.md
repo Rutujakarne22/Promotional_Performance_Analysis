@@ -1,6 +1,5 @@
 # Promotional_Performance_Analysis
 
----
 ##  Overview
 This project presents a comprehensive **promotional performance analysis** for **AtliQ Mart**, a supermarket chain operating in southern India. The goal is to evaluate the performance of festive season promotions (Diwali 2023 and Sankranti 2024) using real-world Excel-based MIS reporting and MySQL-driven data insights.
 
@@ -33,7 +32,7 @@ The following 4 files were used, forming a star-schema database:
 
 ##  Tools Used
 
-- **Microsoft Excel **
+- **Microsoft Excel**
   - Power Pivot, DAX Measures, Pivot Charts,Power Query
   - Slicers, KPIs, and Shapes for interactive dashboards
 
@@ -53,18 +52,6 @@ Features:
 - KPIs (Revenue, Units, IR%, ISU%)
 - Pivot Charts & Slicers (Campaign, Promo Type, City)
 - Navigation Buttons across sheets
-
----
-
-## SQL-Based Business Requests
-
-| Query No. | Business Request |
-|-----------|------------------|
-| 1 | List high-value BOGOF products (Base Price > ₹500) |
-| 2 | City-wise store count |
-| 3 | Campaign-wise total revenue (before vs. after promotions) |
-| 4 | ISU% and ranking by category (Diwali campaign only) |
-| 5 | Top 5 products by IR% across all campaigns |
 
 ---
 
